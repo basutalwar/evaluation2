@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>  
 int main()  
 {    
@@ -44,7 +45,7 @@ int main()
         printf(" \n You have entered wrong inputs ");  
     }  
     return 0;  
-/*
+=======
 #include <stdio.h>
 int main(){
 	int a,b;
@@ -69,4 +70,4 @@ int main(){
 	}
 	return 0;
 >>>>>>> plusminus
-}*/
+}
